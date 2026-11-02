@@ -1,0 +1,14 @@
+{
+  "KPlugin": {
+    "Id": "local.daemon.deadlines",
+    "Name": "Daemon Assignments",
+    "Description": "Daemon KDE deadline stack for the desktop and countdown companion for the panel. Shared local assignments and reminders.",
+    "Icon": "view-task",
+    "Category": "Productivity",
+    "Version": "1.0.0",
+    "License": "MIT",
+    "Authors": [{"Name": "Cody"}]
+  },
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0"
+}

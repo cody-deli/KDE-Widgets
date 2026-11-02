@@ -1,0 +1,10 @@
+[Global]
+Name=Daemon Assignments
+Comment=Assignment deadlines and reminders
+IconName=view-task
+DesktopEntry=org.kde.plasmashell
+
+[Event/deadline]
+Name=Assignment reminder
+Comment=An assignment deadline is approaching or has arrived
+Action=Popup
